@@ -3,7 +3,8 @@ import numpy as np
 import pandas as pd
 import joblib
 import json
-import tf_keras as keras
+from tensorflow import keras
+
 st.set_page_config(page_title="Concrete Strength Predictor", page_icon="🏗️", layout="centered")
 
 
