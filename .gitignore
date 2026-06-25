@@ -15,7 +15,7 @@ __pycache__/
 # Model/scaler saved files (optional - agar large hain)
 
 *.h5
-*.keras
+
 
 # Data files (optional)
 *.csv
